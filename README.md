@@ -27,4 +27,4 @@ My name is *Afnan Damra*, a 25-year-old Architect, who's passionate about techno
 <p> Architect. </p>
 ```
 
-##### My GitHub: [afnandamra] (https://afnandamra.github.io/reading-notes/)
+##### My GitHub: [afnandamra] (https://github.com/afnandamra)
