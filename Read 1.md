@@ -13,8 +13,8 @@ Markdown is a tool to convert text to code and style it with some characters.
 * you can add an image by using this format: \!\[what is the image](url)
 * you can add a site by using this format: \[site name](url)
 * \> this bracket before a line makes it a quote.
-* \``` three apostrophes between a text make it a code ```
-* \```HTML you can even add the language ```
+* \`\`\` three apostrophes between a text make it a code \`\`\`
+* \`\`\`HTML you can even add the language \`\`\`
 * @ before a name is a mention.
 * \-\[x] complete task list.
 * \-\[ ] incomplete task list.
