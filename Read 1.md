@@ -16,8 +16,8 @@ Markdown is a tool to convert text to code and style it with some characters.
 * \``` three apostrophes between a text make it a code ```
 * \```HTML you can even add the language ```
 * @ before a name is a mention.
-* -[x] complete task list.
-* -[ ] incomplete task list.
+* \-[x] complete task list.
+* \-[ ] incomplete task list.
 * and you can make schedules and use emojis!
  
 
