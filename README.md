@@ -4,6 +4,7 @@ My name is *Afnan Damra*, a 25-year-old Architect, who's passionate about techno
 
 
 ## Table of Content:
+
 | Read No. | Read Name | Read Repo |
 | -------- | --------- | --------- |
 |  Read 1  | Learning Markdown | [Read 1](https://afnandamra.github.io/reading-notes/Read%201) |
