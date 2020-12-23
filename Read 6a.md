@@ -5,7 +5,7 @@
   - CSS changes how your site appears.
   - JS changes how the site interacts with users.
 
-- There is a sample on how to add JS to your webpage as we did in this repo: [Class-06-JS](https://afnandamra.github.io/Class-06-JS/)
+- There is a sample on how to add JS to your webpage as we did in this repo: [Class-06-JS](https://github.com/afnandamra/Class-06-JS/tree/main/c01)
 
 - We learned some JS:
     - `document.write('Welcome!');`
