@@ -12,7 +12,7 @@
 
 ### Logical Operators:
 * && : logical and.
-* || : logical or.
+* \|\| : logical or.
 * ! : logical not.
 
 ---
