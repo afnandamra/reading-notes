@@ -21,10 +21,12 @@ This will change the font and the color to all h1, h2, h3 headings.
 
 ### How to add CSS to HTML?
 * #### External CSS File:
+
 ``` HTML
 <link href="css relative path" type="text/css" rel="stylesheet" />
 ```
 * #### Internal CSS:
+
 ``` HTML
 <style type="text/css">
 css code goes here
