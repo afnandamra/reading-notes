@@ -16,3 +16,4 @@ My name is *Afnan Damra*, a 25-year-old Architect, who's passionate about techno
 | Read 6b | Computer Architecture and Logic | [Read 6b](https://afnandamra.github.io/reading-notes/Read%206b) |
 | Read 7 | Programming with JavaScript | [Read 7](https://afnandamra.github.io/reading-notes/Read%207) |
 | Read 8 | Operators and Loops | [Read 8](https://afnandamra.github.io/reading-notes/Read%208) |
+| Read 5 | Design web pages with CSS | [Read 5](https://afnandamra.github.io/reading-notes/Read%205)
