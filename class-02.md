@@ -37,7 +37,7 @@ CSS adds style to the webpage to make it more attractive, it can add new element
     p {
     font-family: Arial;} 
 ```
-This indicades that all `<p>` elements should appear in Arial typeface.
+This indicates that all `<p>` elements should appear in Arial typeface.
 * `<p>` : Selectors, indicates which element the rule applies to.
 * `font-family: Arial;` : Declarations, indicate how selector elements should be styled.
 
