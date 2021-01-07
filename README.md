@@ -12,7 +12,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 2 | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read 2](https://afnandamra.github.io/reading-notes/class-02) |
 | Read 3 | HTML Lists, CSS Boxes, JS Control Flow | [Read 3](https://afnandamra.github.io/reading-notes/class-03) |
 | Read 4 | HTML Links, CSS Layout, JS Functions | [Read 4](https://afnandamra.github.io/reading-notes/class-04) |
-| Read 5 | HTML Images; CSS Color & Text | [Read 5]() |
+| Read 5 | HTML Images; CSS Color & Text | [Read 5](https://afnandamra.github.io/reading-notes/class-05) |
 | Read 6 |  JS Object Literals; The DOM | [Read 6]() |
 | Read 7 | HTML Tables; JS Constructor Functions | [Read 7]() |
 | Read 8 | More CSS Layout | [Read 8]() |
