@@ -7,6 +7,7 @@
 * width
 * align (left,right)
 * align (top,middle,bottom)
+
 ``` html
 <figure>
     <img/>
@@ -14,6 +15,7 @@
     </figcaption>
 </figure>
 ```
+
 ---
 # CSS
 ## Color
