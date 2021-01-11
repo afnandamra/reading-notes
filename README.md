@@ -14,7 +14,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 4 | HTML Links, CSS Layout, JS Functions | [Read 4](https://afnandamra.github.io/reading-notes/class-04) |
 | Read 5 | HTML Images; CSS Color & Text | [Read 5](https://afnandamra.github.io/reading-notes/class-05) |
 | Read 6 |  JS Object Literals; The DOM | [Read 6](https://afnandamra.github.io/reading-notes/class-06) |
-| Read 7 | HTML Tables; JS Constructor Functions | [Read 7]() |
+| Read 7 | HTML Tables; JS Constructor Functions | [Read 7](https://afnandamra.github.io/reading-notes/class-07) |
 | Read 8 | More CSS Layout | [Read 8]() |
 | Read 9 | Forms and Events | [Read 9]() |
 | Read 10 | JS Debugging | [Read 10]() |
