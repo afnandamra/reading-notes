@@ -16,7 +16,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 6 |  JS Object Literals; The DOM | [Read 6](https://afnandamra.github.io/reading-notes/class-06) |
 | Read 7 | HTML Tables; JS Constructor Functions | [Read 7](https://afnandamra.github.io/reading-notes/class-07) |
 | Read 8 | More CSS Layout | [Read 8](https://afnandamra.github.io/reading-notes/class-08) |
-| Read 9 | Forms and Events | [Read 9]() |
+| Read 9 | Forms and Events | [Read 9](https://afnandamra.github.io/reading-notes/class-09) |
 | Read 10 | JS Debugging | [Read 10]() |
 | Read 11 | Assorted Topics | [Read 11]() |
 | Read 12 | Docs for the HTML \<canvas\> Element & Chart.js | [Read 12]() |
