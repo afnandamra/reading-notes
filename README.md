@@ -13,7 +13,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | --- | --- | --- |
 | Read 1 | SMACSS and Responsive Web Design | [Read 1](https://afnandamra.github.io/reading-notes/301-01){:target="_blank"} |
 | Read 2 | jQuery, Events, and The DOM | [Read 2](https://afnandamra.github.io/reading-notes/301-02){:target="_blank"} |
-| Read 3 | Flexbox and Templating | [Read 3](https://afnandamra.github.io/reading-notes/301-03) |
+| Read 3 | Flexbox and Templating | [Read 3](https://afnandamra.github.io/reading-notes/301-03){:target="_blank"} |
 | Read 4 | Responsive Web Design and Regular Expressions | [Read 4](https://afnandamra.github.io/reading-notes/301-04) |
 | Read 5 | Heroku Deployment | [Read 5](https://afnandamra.github.io/reading-notes/301-05) |
 | Read 6 | Node, Express, and APIs | [Read 6](https://afnandamra.github.io/reading-notes/301-06) |
