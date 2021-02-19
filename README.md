@@ -18,7 +18,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 5 | Heroku Deployment | [Read 5](https://afnandamra.github.io/reading-notes/301-05){:target="_blank"} |
 | Read 6 | Node, Express, and APIs | [Read 6](https://afnandamra.github.io/reading-notes/301-06){:target="_blank"} |
 | Read 7 | APIs continued | [Read 7](https://afnandamra.github.io/reading-notes/301-07){:target="_blank"} |
-| Read 8 | SQL | [Read 8](https://afnandamra.github.io/reading-notes/301-08) |
+| Read 8 | SQL | [Read 8](https://afnandamra.github.io/reading-notes/301-08){:target="_blank"} |
 | Read 9 | Refactoring | [Read 9](https://afnandamra.github.io/reading-notes/301-09) |
 | Read 10 | The Call Stack and Debugging | [Read 10](https://afnandamra.github.io/reading-notes/301-10) |
 | Read 11 | EJS | [Read 11](https://afnandamra.github.io/reading-notes/301-11) |
