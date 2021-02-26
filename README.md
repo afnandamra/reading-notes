@@ -23,7 +23,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 10 | The Call Stack and Debugging | [Read 10](https://afnandamra.github.io/reading-notes/301-10){:target="_blank"} |
 | Read 11 | EJS | [Read 11](https://afnandamra.github.io/reading-notes/301-11){:target="_blank"} |
 | Read 12 | Components | [Read 12](https://afnandamra.github.io/reading-notes/301-12){:target="_blank"} |
-| Read 13 | Update/Delete | [Read 13](https://afnandamra.github.io/reading-notes/301-13){:target="_blank"} |
+| Read 13 | Update/Delete | [Read 13](https://afnandamra.github.io/reading-notes/){:target="_blank"} |
 | Read 14a | DB Normalization | [Read 14a](https://afnandamra.github.io/reading-notes/301-14a){:target="_blank"} |
 | Read 14b | Project Ideas & APIs | [Read 14b](https://afnandamra.github.io/reading-notes/301-14b){:target="_blank"} |
 | Read 15 | Diversity and Inclusion | [Read 15](https://afnandamra.github.io/reading-notes/301-15){:target="_blank"} |
