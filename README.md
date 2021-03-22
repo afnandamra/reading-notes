@@ -5,6 +5,18 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 
 ----
 
+## Code 401 - Advanced Software Development
+
+### Table of Content
+
+| Read No. | Read Name | Read Repo |
+| --- | --- | --- |
+| Read 1 | Node Ecosystem, TDD, CI/CD | [Read 1]() |
+
+:worried:
+
+----
+
 ## Code 301 - Intermediate Software Development
 
 ### Table of Content
@@ -28,7 +40,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 14b | Project Ideas & APIs | [Read 14b](https://afnandamra.github.io/reading-notes/301-14b){:target="_blank"} |
 | Read 15 | Diversity and Inclusion | [Read 15](https://afnandamra.github.io/reading-notes/301-15){:target="_blank"} |
 
-:worried:
+:smiley:
 
 ----
 
