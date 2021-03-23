@@ -1,5 +1,7 @@
 # Reading Notes
 
+<div id="top"></div>
+
 ## About me:
 My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-year-old__ Architect, who's passionate about technology and everything related. This website is for my reading notes.
 
@@ -55,7 +57,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 39 | Redux - Additional Topics | [Read 39](https://afnandamra.github.io/reading-notes/401/class-39) |
 | Read 40 | React Native | [Read 40](https://afnandamra.github.io/reading-notes/401/class-40) |
 
-:worried:
+**[⬆ Back to Top](#top)**
 
 ----
 
@@ -84,7 +86,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 14b | Project Ideas & APIs | [Read 14b](https://afnandamra.github.io/reading-notes/301/301-14b){:target="_blank"} |
 | Read 15 | Diversity and Inclusion | [Read 15](https://afnandamra.github.io/reading-notes/301/301-15){:target="_blank"} |
 
-:smiley:
+**[⬆ Back to Top](#top)**
 
 ----
 
@@ -112,7 +114,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 14a | CSS Transforms, Transitions, and Animations | [Read 14a](https://afnandamra.github.io/reading-notes/201/class-14a) |
 | Read 14b | What Google Learned About Teams | [Read 14b](https://afnandamra.github.io/reading-notes/201/class-14b) |
 
-:smiley:
+**[⬆ Back to Top](#top)**
 
 ----
 
@@ -135,4 +137,4 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 8 | Operators and Loops | [Read 8](https://afnandamra.github.io/reading-notes/102/Read%208) |
 | Read 5 | Design web pages with CSS | [Read 5](https://afnandamra.github.io/reading-notes/102/Read%205)
 
-:satisfied:
+**[⬆ Back to Top](#top)**
