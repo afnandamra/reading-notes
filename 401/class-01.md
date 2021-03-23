@@ -62,4 +62,4 @@ let myPromise = new Promise(function(resolve, reject) {
 
 
 ## Are all callback functions considered to be Asynchronous? Why or Why Not?
-No, not every callback considerred as asynchronous. for example the forEach consider as a callback function but not a asynchronous.
+No, not every callback considered asynchronous. for example, the forEach consider as a callback function but not asynchronous.
