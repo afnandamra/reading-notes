@@ -49,7 +49,7 @@ They both are used to update data in the database, PUT overrides the existing el
   <dt>Routing</dt>
   <dd>Routing defines the way in which the client requests are handled by the application endpoints.
 
-  > Simple routing for GET request use app.get() method:
+  - Simple routing for GET request use app.get() method:
 
   ```js
   var express = require('express')
