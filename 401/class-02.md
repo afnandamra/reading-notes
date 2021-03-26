@@ -9,9 +9,7 @@ They both are used to update data in the database, PUT overrides the existing el
 2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server
 
     1. [MongoDB](https://www.mongodb.com/)
-
     2. [Firebase](https://firebase.google.com/)
-
     3. [Postman](https://www.postman.com/)
 
 3. Compare and contrast Swagger and APIDoc.js 1 Which HTTP status codes should be sent with each type of (un)successful API call?
@@ -23,13 +21,13 @@ They both are used to update data in the database, PUT overrides the existing el
   - Server errors (500-599)
 
 4. Compare and contrast SOAP and ReST
-- SOAP (Simple Object Access Protocol) is a standards-based web service communication protocol, relies exclusively on XML to provide messaging services
-- REST (Representational State Transfer) is another standard, made in response to the shortcomings of SOAP, and to create a simpler method of accessing web services
-- REST is most commonly used when exposing a public API over the internet while SOAP exposes components of application logic as services rather than data
-- REST accesses data while SOAP performs operations through more rigid set of messaging 
-- Benefits of REST over SOAP: uses HTTP for simplicity, allows greater variety of data formats, generally faster and uses less bandwidth
-- Benefits of SOAP over REST: if you need more security, offers built-in retry logic for failed communications, highly extensible through other protocols and technologies
-- Comparisons of REST versus SOAP from [SmartBear](https://smartbear.com/blog/soap-vs-rest-whats-the-difference/) and [Stackify](https://stackify.com/soap-vs-rest/)
+  - SOAP (Simple Object Access Protocol) is a standards-based web service communication protocol, relies exclusively on XML to provide messaging services
+  - REST (Representational State Transfer) is another standard, made in response to the shortcomings of SOAP, and to create a simpler method of accessing web services
+  - REST is most commonly used when exposing a public API over the internet while SOAP exposes components of application logic as services rather than data
+  - REST accesses data while SOAP performs operations through more rigid set of messaging 
+  - Benefits of REST over SOAP: uses HTTP for simplicity, allows greater variety of data formats, generally faster and uses less bandwidth
+  - Benefits of SOAP over REST: if you need more security, offers built-in retry logic for failed communications, highly extensible through other protocols and technologies
+  - Comparisons of REST versus SOAP from [SmartBear](https://smartbear.com/blog/soap-vs-rest-whats-the-difference/) and [Stackify](https://stackify.com/soap-vs-rest/)
 
 
 ## Terms:
@@ -38,9 +36,12 @@ They both are used to update data in the database, PUT overrides the existing el
   <dd>npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
   npm consists of three distinct components:
+
   * the website
   * the Command Line Interface (CLI)
-  * the registry</dd>
+  * the registry
+
+  </dd>
   <dt>Web Server</dt>
   <dd>A web server is a software that uses <abbr title="Hypertext Transfer Protocol">HTTP</abbr> and other protocols to respond to client requests made over the World Wide Web. The main job of a web server is to display website content through storing, processing and delivering webpages to users.</dd>
   <dt>Express</dt>
@@ -49,6 +50,7 @@ They both are used to update data in the database, PUT overrides the existing el
   <dd>Routing defines the way in which the client requests are handled by the application endpoints.
 
   > Simple routing for GET request use app.get() method:
+
   ```js
   var express = require('express')
   var app = express()

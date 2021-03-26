@@ -62,7 +62,7 @@ app.get('/', logger, (req, res) => {
 
 ## ES6 Classes
 
-- Classes are template for creating objects
+- Classes are a template for creating objects
 - Classes are "special functions"
 - Class syntax has two components: class expressions and class declarations
 - Class declarations: use the ```class``` keyword with the name of the class
@@ -103,7 +103,7 @@ let Rectangle = class Rectangle2 {
 
 ## Using Express Routing
 
-- Routing refers to how an applications endpoints (URIs) respond to client requests
+- Routing refers to how applications endpoints (URIs) respond to client requests
 - Define routing using methods of the Express app object that correspond to HTTP methods
 - Routing methods specify a callback function (sometimes called "handler functions") called when the application receives a request to the specified route (endpoint) and HTTP method
 - Routing methods can have more than one callback function as arguments
