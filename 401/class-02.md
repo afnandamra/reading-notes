@@ -78,6 +78,6 @@ They both are used to update data in the database, PUT overrides the existing el
 
 ## <abbr title="Continious Intergration">CI</abbr> / <abbr title="Continious Development / Continious Deployment">CD</abbr>
 - Continuous Integration/Continous Delivery
-- Continuous Integration(CI) ensures everyone's changes integrate with current version of project, catch bugs, and reduce merge conflicts
-- Continuous Delivery (CD) is the practice of developing software in such a way that you could release at any time
-- Continuous deployment is extension of continous delivery, process that allows you to deploy newly developed features into production
+- Continuous Integration(CI) ensures everyone's changes integrate with the current version of the project, catch bugs, and reduce merge conflicts
+- Continuous Delivery (CD) is the practice of developing software in such a way that you could release it at any time
+- Continuous deployment is an extension of continuous delivery, a process that allows you to deploy newly developed features into production
