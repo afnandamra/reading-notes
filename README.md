@@ -27,7 +27,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 3 | Express REST API | [Read 3](https://afnandamra.github.io/reading-notes/401/class-03) |
 | Read 4 | Data Modeling | [Read 4](https://afnandamra.github.io/reading-notes/401/class-04) |
 | Read 5 | Linked Lists | [Read 5](https://afnandamra.github.io/reading-notes/401/class-05) |
-| Read 6 | Authentication | [Read 6](https://afnandamra.github.io/reading-notes/401/class-06) |
+<!-- | Read 6 | Authentication | [Read 6](https://afnandamra.github.io/reading-notes/401/class-06) |
 | Read 7 | Bearer Authorization | [Read 7](https://afnandamra.github.io/reading-notes/401/class-07) |
 | Read 8 | Access Control (ACL) | [Read 8](https://afnandamra.github.io/reading-notes/401/class-08) |
 | Read 9 | OAuth | [Read 9](https://afnandamra.github.io/reading-notes/401/class-09) |
@@ -55,7 +55,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 37 | Redux - Combined Reducers | [Read 37](https://afnandamra.github.io/reading-notes/401/class-37) |
 | Read 38 | Redux - Asynchronous Actions | [Read 38](https://afnandamra.github.io/reading-notes/401/class-38) |
 | Read 39 | Redux - Additional Topics | [Read 39](https://afnandamra.github.io/reading-notes/401/class-39) |
-| Read 40 | React Native | [Read 40](https://afnandamra.github.io/reading-notes/401/class-40) |
+| Read 40 | React Native | [Read 40](https://afnandamra.github.io/reading-notes/401/class-40) | -->
 
 **[⬆ Back to Top](#top)**
 
