@@ -1,58 +1,7 @@
 # Express
 
-## Terms:
-<dt><abbr title="Node Package Manager">NPM</abbr></dt>
-<dd>npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
-npm consists of three distinct components:
-* the website
-* the Command Line Interface (CLI)
-* the registry</dd>
-<dt>Web Server</dt>
-<dd>A web server is a software that uses <abbr title="Hypertext Transfer Protocol">HTTP</abbr> and other protocols to respond to client requests made over the World Wide Web. The main job of a web server is to display website content through storing, processing and delivering webpages to users.</dd>
-<dt>Express</dt>
-<dd>Express is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks.</dd>
-<dt>Routing</dt>
-<dd>Routing defines the way in which the client requests are handled by the application endpoints.
-
-Simple routing for GET request use app.get() method:
-
-```js
-var express = require('express')
-var app = express()
-
-app.get('/', function(req, res) {
-    res.send('Hello Sir')
-})
-```
-
-</dd>
-<dt><abbr title="Web Request/Responce Cycle">WRRC</abbr></dt>
-<dd>Web request response cycle, details how information moves between client/server</dd>
-<dt><abbr title="Test Driven Development">TDD</abbr></dt>
-<dd>
-
-- Refers to a style of programming in which three activities are tightly interwoven: coding, testing (unit tests) and design (refactoring)
-- Can be described by this set of rules:
-  - Write a single unit test describing an aspect of the program
-  - Run the test, which should fail because the program lacks that feature
-  - Write just enough code, the simplest possible, to make the test pass
-  - Refactor the code until it conforms to the simplicity criteria
-  - Repeat, accumulating unit tests over time
-
-</dd>
-<dt><abbr title="Continious Intergration">CI</abbr></dt>
-<dt><abbr title="Continious Development / Continious Deployment">CD</abbr></dt>
-<dd>
-
-- Continuous Integration/Continous Delivery
-- Continuous Integration(CI) ensures everyone's changes integrate with current version of project, catch bugs, and reduce merge conflicts
-- Continuous Delivery (CD) is the practice of developing software in such a way that you could release at any time
-- Continuous deployment is extension of continous delivery, process that allows you to deploy newly developed features into production
-
-</dd>
-
-## Questions:
+## Review, Research, and Discussion:
 1. What’s the difference between PUT and PATCH?
 
 They both are used to update data in the database, PUT overrides the existing element with the new data, while PATCH edits just the given property without modifying any other properties.
@@ -81,3 +30,52 @@ They both are used to update data in the database, PUT overrides the existing el
 - Benefits of REST over SOAP: uses HTTP for simplicity, allows greater variety of data formats, generally faster and uses less bandwidth
 - Benefits of SOAP over REST: if you need more security, offers built-in retry logic for failed communications, highly extensible through other protocols and technologies
 - Comparisons of REST versus SOAP from [SmartBear](https://smartbear.com/blog/soap-vs-rest-whats-the-difference/) and [Stackify](https://stackify.com/soap-vs-rest/)
+
+
+## Terms:
+<dl>
+  <dt><abbr title="Node Package Manager">NPM</abbr></dt>
+  <dd>npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+  npm consists of three distinct components:
+  * the website
+  * the Command Line Interface (CLI)
+  * the registry</dd>
+  <dt>Web Server</dt>
+  <dd>A web server is a software that uses <abbr title="Hypertext Transfer Protocol">HTTP</abbr> and other protocols to respond to client requests made over the World Wide Web. The main job of a web server is to display website content through storing, processing and delivering webpages to users.</dd>
+  <dt>Express</dt>
+  <dd>Express is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks.</dd>
+  <dt>Routing</dt>
+  <dd>Routing defines the way in which the client requests are handled by the application endpoints.
+
+  > Simple routing for GET request use app.get() method:
+  ```js
+  var express = require('express')
+  var app = express()
+
+  app.get('/', function(req, res) {
+      res.send('Hello!')
+  })
+  ```
+
+  </dd>
+  <dt><abbr title="Web Request/Responce Cycle">WRRC</abbr></dt>
+  <dd>Web request response cycle, details how information moves between client/server</dd>
+</dl>
+
+
+## <abbr title="Test Driven Development">TDD</abbr>
+- Refers to a style of programming in which three activities are tightly interwoven: coding, testing (unit tests) and design (refactoring)
+- Can be described by this set of rules:
+  - Write a single unit test describing an aspect of the program
+  - Run the test, which should fail because the program lacks that feature
+  - Write just enough code, the simplest possible, to make the test pass
+  - Refactor the code until it conforms to the simplicity criteria
+  - Repeat, accumulating unit tests over time
+
+
+## <abbr title="Continious Intergration">CI</abbr> / <abbr title="Continious Development / Continious Deployment">CD</abbr>
+- Continuous Integration/Continous Delivery
+- Continuous Integration(CI) ensures everyone's changes integrate with current version of project, catch bugs, and reduce merge conflicts
+- Continuous Delivery (CD) is the practice of developing software in such a way that you could release at any time
+- Continuous deployment is extension of continous delivery, process that allows you to deploy newly developed features into production
