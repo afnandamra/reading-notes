@@ -3,16 +3,37 @@
 ## Review, Research, and Discussion:
 
 1. **Explain what a “Singleton” is (in Computer Science terms)**: class that allows only a single instance of itself to be created and gives access to that created instance, it contains static variables that can accomodate unique and private instances of itself. It is used in scenarios when a user wants to restrict instantiation of a class to only one object (source: Techopedia)
-2. **Explain how the Singleton pattern can be used with Node modules, specifically with classes**: Singleton design pattern restricts the instantiation of a class to a single instance (source: [Medium](https://medium.com/better-programming/what-is-a-singleton-2dc38ca08e92))
+2. **Explain how the Singleton pattern can be used with Node modules, specifically with classes**: Singleton design pattern restricts the instantiation of a class to a single instance
+
+    - Example:
+
+    ``` js
+    // recreation.js file
+    class Recreation {
+        constructor(city, park) {
+            this.city = city;
+            this.park = park;
+        }
+    }
+    module.exports = Recreation;
+
+    // adventure.js file
+    const Recreation = require('recreation.js');
+    const greenlake = new Recreation('Seattle', 'Greenlake');
+    ```
+
+(source: [Medium](https://medium.com/better-programming/what-is-a-singleton-2dc38ca08e92))
 3. **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?**:
-``` js
-const express = require('express')
-const app = express()
-const myFunction = (request, response, next) => {... next()}
-app.use(myFunction)
-app.get('/route', (request, response) => {...})
-app.listen(PORT)
-```
+
+    ``` js
+    const express = require('express')
+    const app = express()
+    const myFunction = (request, response, next) => {... next()}
+    app.use(myFunction)
+    app.get('/route', (request, response) => {...})
+    app.listen(PORT)
+    ```
+    
 - Writing middleware for use in Express apps docs [here](https://expressjs.com/en/guide/writing-middleware.html)
 - Creating custom middleware in Express.js overview here from [DigitalOcean](https://www.digitalocean.com/community/tutorials/nodejs-creating-your-own-express-middleware)
 
