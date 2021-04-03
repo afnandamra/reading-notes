@@ -2,7 +2,7 @@
 
 ## Review, Research, and Discussion:
 
-1. **Explain what a “Singleton” is (in Computer Science terms)**: class that allows only a single instance of itself to be created and gives access to that created instance, it contains static variables that can accomodate unique and private instances of itself. It is used in scenarios when a user wants to restrict instantiation of a class to only one object (source: Techopedia)
+1. **Explain what a “Singleton” is (in Computer Science terms)**: a class that allows only a single instance of itself to be created and gives access to that created instance, it contains static variables that can accommodate unique and private instances of itself. It is used in scenarios when a user wants to restrict the instantiation of a class to only one object (source: Techopedia)
 2. **Explain how the Singleton pattern can be used with Node modules, specifically with classes**: Singleton design pattern restricts the instantiation of a class to a single instance
 
     - Example:
@@ -33,13 +33,13 @@
     app.get('/route', (request, response) => {...})
     app.listen(PORT)
     ```
-    
+
 - Writing middleware for use in Express apps docs [here](https://expressjs.com/en/guide/writing-middleware.html)
 - Creating custom middleware in Express.js overview here from [DigitalOcean](https://www.digitalocean.com/community/tutorials/nodejs-creating-your-own-express-middleware)
 
 ## Vocabulary Terms
 - **Router Middleware**: works in the same way as application-level middleware, except it is bound to an instance of `express.Router()`
-- **Dynamic Module Loading**: mechanism by which a computer program can, at run time, load a library (or other binary) into memory, retrieve the addresses of functions and variables contained in the library, execute those functions or access those variables, and unload the library from memory (source: Wikipedia)
+- **Dynamic Module Loading**: the mechanism by which a computer program can, at run time, load a library (or other binary) into memory, retrieve the addresses of functions and variables contained in the library, execute those functions or access those variables, and unload the library from memory (source: Wikipedia)
 - **Singleton Pattern**: restricts the instantiation of a class to a single instance
 - **CRUD (create, read, update, delete) -> REST Method Matches**: create --> POST, read --> GET, update --> PUT/PATCH, delete --> DELETE
 - **Mock Testing**: an approach to unit testing that lets you make assertions about how the code under test is interacting with other system modules, dependencies are replaced with objects that simulate the behavior of the real ones (source: Devopedia)
