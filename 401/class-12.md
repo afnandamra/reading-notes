@@ -17,7 +17,7 @@ A server socket listens on a single port, but it is able to share the same serve
 
 4. **Can a socket connection application be connected to multiple socket servers?**
 
-Single client-side server should only connect to one socket server.
+A single client-side server should only connect to one socket server.
 
 5. **Can an application be both a socket server and a socket connection?**
 
@@ -26,15 +26,15 @@ Yes (source: [Stack Abuse](https://stackabuse.com/node-js-websocket-examples-wit
 ## Vocabulary Terms
 
 - **Observer Pattern:** software design pattern in which an object (named the subject) maintains a list of its dependents (observers), and notifies them automatically of any state changes, usually by calling one of their methods
-- **Listener:** function that listens for an event to occur
-- **Event Handler:** function that runs when a specific event fires
-- **Event Driven Programming:** programming paradigm in which the flow of the program is determined by events such as user actions, message passing
+- **Listener:** a function that listens for an event to occur
+- **Event Handler:** a function that runs when a specific event fires
+- **Event-Driven Programming:** programming paradigm in which the flow of the program is determined by events such as user actions, message passing
 - **Event Loop:** responsible for executing the code, collecting and processing events, and executing queued sub-tasks (source: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop))
 - **Event Queue:** queue where events from an application are held prior to being processed by a receiving program or system
-- **Call Stack:** mechanism for an interpreter to keep track of its place in a script that calls multiple functions - what function is currently being run and what functions are called from within that function (source: [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack))
-- **Emit/Raise/Trigger:** in event driven programming, emit sends a message to trigger a response and raise and event
+- **Call Stack:** a mechanism for an interpreter to keep track of its place in a script that calls multiple functions - what function is currently being run and what functions are called from within that function (source: [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack))
+- **Emit/Raise/Trigger:** in event-driven programming, emit sends a message to trigger a response and raise an event
 - **Subscribe:** waiting for a published event to take place
-- **Database:** organized collection of data, generally stored and accessed electronically from a computer system
+- **Database:** an organized collection of data, generally stored and accessed electronically from a computer system
 
 ## Web Sockets
 
@@ -46,16 +46,16 @@ Yes (source: [Stack Abuse](https://stackabuse.com/node-js-websocket-examples-wit
 ## Socket.io Tutorial
 
 - Socket.IO enables real-time bidirectional event-based communication
-- Works on every platform, browser or device
-- Built on top of the WebSockets API (Client side) and Node.js
+- Works on every platform, browser, or device
+- Built on top of the WebSockets API (Client-side) and Node.js
 
 ## Socket.io vs. Web Sockets
 
-- WebSocket is the communication protocol which provides bidirectional communication between the client and the server over a TCP connection
+- WebSocket is the communication protocol that provides bidirectional communication between the client and the server over a TCP connection
 - WebSocket remains open all the time so they allow the real-time data transfer
-- When clients trigger the request to the server it does not close the connection, it persists and waits for client or server to terminate the request
-- Socket.IO is a library which enables real-time and full duplex communication between the client and the web servers
+- When clients trigger the request to the server it does not close the connection, it persists and waits for the client or server to terminate the request
+- Socket.IO is a library that enables real-time and full-duplex communication between the client and the web servers
 - Uses the WebSocket protocol to provide the interface
 - Divided into two parts, both WebSocket vs Socket.io are event-driven libraries:
-  - client side: library that runs inside the browser
-  - server side: library for Node.js
+  - client-side: a library that runs inside the browser
+  - server-side: library for Node.js
