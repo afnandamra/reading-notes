@@ -23,7 +23,7 @@ With unit tests which test individual components of the system, as well as integ
 - **Server instances:** An instance is a single copy of the software running on a single physical or virtual server. If you run two copies of the software on the same physical or virtual server, that counts as two instances. When you run two copies of the software on two different physical or virtual servers, that also counts as two instances. (Source: [Flexera/Rightscale](https://docs.rightscale.com/cm/dashboard/manage/instances_and_servers/instances_and_servers_concepts.html))
 - **Containers:** A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. (Source: [AWS docs](https://aws.amazon.com/getting-started/deep-dive-containers/))
 - **Cloud Services:** a wide range of services delivered on demand to companies and customers over the internet, these services are designed to provide easy, affordable access to applications and resources without the need for internal infrastructure or hardware (source: [Citrix](https://www.citrix.com/glossary/what-is-a-cloud-service.html))
-- **Cloud Architecture:** the way technology components combine to build a cloud, in which resources are pooled through virtualization technology and shared acrosss a network (source: [VMware](https://www.vmware.com/topics/glossary/content/cloud-architecture))
+- **Cloud Architecture:** the way technology components combine to build a cloud, in which resources are pooled through virtualization technology and shared across a network (source: [VMware](https://www.vmware.com/topics/glossary/content/cloud-architecture))
   - Components of cloud architecture include:
     - front-end platform (client or device used to access the cloud)
     - back-end platform (servers and storage)
@@ -59,7 +59,7 @@ With unit tests which test individual components of the system, as well as integ
 ### CDN
 
 - Content Delivery Network (CDN) is a geographically distributed group of servers that work together to provide fast delivery of Internet content
-- A CDN allows for the fast transfer of data needed for loading Internet content including HTML pages, Javascript files, stylesheets, images, and videos
+- A CDN allows for the fast transfer of data needed for loading Internet content including HTML pages, JavaScript files, stylesheets, images, and videos
 - CDNs work through servers nearest to the website visitor respond to the request
 - The content delivery network copies the pages of a website to a network of servers that are spread out at geographically different locations, caching the contents of the page
 - When a user requests a webpage that is part of a content delivery network, the CDN will redirect the request from the originating site’s server to a server in the CDN that is closest to the user and deliver the cached content
