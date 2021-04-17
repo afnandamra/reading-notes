@@ -35,7 +35,6 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 11 | Event Driven Applications | [Read 11](https://afnandamra.github.io/reading-notes/401/class-11) |
 | Read 12 | Socket.io | [Read 12](https://afnandamra.github.io/reading-notes/401/class-12) |
 | Read 13 | Message Queues | [Read 13](https://afnandamra.github.io/reading-notes/401/class-13) |
-| Read 14 | Event Driven Architecture | [Read 14](https://afnandamra.github.io/reading-notes/401/class-14) |
 | Read 15 | Trees | [Read 15](https://afnandamra.github.io/reading-notes/401/class-15) |
 | Read 16 | AWS: Cloud Servers | [Read 16](https://afnandamra.github.io/reading-notes/401/class-16) |
 | Read 17 | AWS: S3 and Lambda | [Read 17](https://afnandamra.github.io/reading-notes/401/class-17) |
