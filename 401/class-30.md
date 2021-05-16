@@ -1,5 +1,7 @@
 # Hash Tables
 
+## Hashtables: From Code Fellows [overview docs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+
 ## Terminology
 
 - Hash: ability to encode the key that will eventually map to a specific location in the data structure that we can look at directly to retrieve the value

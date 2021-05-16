@@ -16,7 +16,7 @@ Functional components are much easier to read and test, they have less code, eas
 
 4. **What is wrong with the following code?**
 
-I don't know. If I had to guess, I'd say `useEffect()` takes only a function without the second parameter
+I don't know. If I had to guess, I'd say `useEffect()` cannot be called inside a loop
 
 ```javascript
 import React, {useState, useEffect} from 'react';
