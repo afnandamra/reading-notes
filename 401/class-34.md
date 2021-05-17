@@ -16,7 +16,7 @@
   4. **Describe “Context Hell”**
   As far as I can find, it has to do with too many nested contexts.
   
-### Vocabulary
+## Vocabulary
   - **global state:** state that is accessible at the top level of the app and passed via props
   - **global context:** context that is passed from the app.js component and is available to all child componenets
   - **provider:** React uses provider pattern in Context API to share data across tree descendants
@@ -29,7 +29,8 @@
 
 ## react-cookies component
   - React's way of using and saving cookies
-  - [Bookmarked](https://www.npmjs.com/package/react-cookies)
   
-## react cookie library
-  - [also bookmarked](https://www.npmjs.com/package/react-cookie)
+## Preparation Materials
+  - [what is role based access control?](https://digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more)
+  - [react-cookies component](https://www.npmjs.com/package/react-cookies)
+  - [react-cookie library](https://www.npmjs.com/package/react-cookie)
