@@ -1,4 +1,4 @@
-# Class 41: React Native
+# React Native
 
 ## Review, Research, and Discussion
 
