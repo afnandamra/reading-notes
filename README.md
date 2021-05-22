@@ -54,7 +54,7 @@ My name is _Afnan Damra_, [My Github](https://github.com/afnandamra), a __25-yea
 | Read 37 | Redux - Combined Reducers | [Read 37](https://afnandamra.github.io/reading-notes/401/class-37) |
 | Read 38 | Redux - Asynchronous Actions | [Read 38](https://afnandamra.github.io/reading-notes/401/class-38) |
 | Read 39 | Redux - Additional Topics | [Read 39](https://afnandamra.github.io/reading-notes/401/class-39) |
-| Read 40 | React Native | [Read 40](https://afnandamra.github.io/reading-notes/401/class-40) |
+| Read 41 | React Native | [Read 41](https://afnandamra.github.io/reading-notes/401/class-41) |
 
 **[⬆ Back to Top](#top)**
 
